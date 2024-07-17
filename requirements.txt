@@ -1,0 +1,12 @@
+numpy
+pandas
+regex
+nltk
+spacy
+googletrans==4.0.0-rc1
+pyspellchecker
+scikit-learn
+tensorflow
+emoji
+joblib
+tk
